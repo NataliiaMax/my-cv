@@ -14,7 +14,7 @@ body {
 /* main-content */
 .main-content {
     background-color: #FFFFFF;
-    padding: 105px 90px;
+    padding: 45px 90px;
     box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1);
 }
 
@@ -25,9 +25,9 @@ body {
 
 .front-title {
     font-family: 'Montserrat';
-    font-style: normal;
+    font-style:italic;
     font-weight: bold;
-    font-size: 14px;
+    font-size: 30px;
     line-height: 17px;
     color: #000000;
     margin-bottom: 20px;
@@ -83,7 +83,7 @@ body {
 }
 
 .project,
-.project-link {
+.project-link, .project-text{
     font-family: 'Montserrat';
     font-style: normal;
     font-weight: normal;
