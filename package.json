@@ -1,0 +1,5 @@
+{
+  "devDependencies": {
+    "grunt-markdown-pdf": "^4.0.0"
+  }
+}
