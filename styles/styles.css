@@ -51,7 +51,7 @@ body {
     font-size: 16px;
     line-height: 24px;
     color: #000000;
-    }
+}
 
 /* projects styles */
 .projects {
@@ -163,11 +163,11 @@ body {
 .sidebar {
     background-color: #1E2939;
     padding-top: 40px;
-    width: 570 px;
+    /* width: 570 px; */
 }
 
 .sidebar-photo {
-        height: 50 px;
+    height: 50 px;
     margin-bottom: 50 px;
 }
 
