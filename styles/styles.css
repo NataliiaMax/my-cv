@@ -1,6 +1,7 @@
 body {
     font-family: 'Montserrat', sans-serif;
     text-align: justify;
+    box-sizing: content-box;
 }
 
 /* main styles */
@@ -8,7 +9,7 @@ body {
     display: flex;
     flex-direction: row-reverse;
     background-color: #E5E5E5;
-    /* width: 1500px; */
+    width: 1500px;
     margin: 0;
 }
 
@@ -165,13 +166,18 @@ body {
     padding-top: 40px;
     box-sizing: 570px;
     width: 570 px;
+    display: inline;
+}
+
+.container-photo{
+ margin-bottom: 50 px;
+ width: 220px;
 }
 
 .sidebar-photo {
-    height: 50 px;
-    margin-bottom: 50 px;
+       width: 60%;
     border-radius: 50%;
-    
+   
 }
 
 .contacts {
