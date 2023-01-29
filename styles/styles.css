@@ -1,6 +1,7 @@
 body {
     font-family: 'Montserrat', sans-serif;
-    text-align: justify
+    text-align: justify;
+    vertical-align: auto;
 }
 
 /* main styles */
